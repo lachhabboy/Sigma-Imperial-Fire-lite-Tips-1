@@ -1,0 +1,129 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "BannerAd": "admob",
+		"InterstitialAd": "admob",
+        "NativeAd": "admob",
+		
+		"BannerAdmob": "ca-app-pub-2120403233975259/1469110324",
+        "InterstitialAdmob": "ca-app-pub-2120403233975259/8557262857",
+        "NativeAdmob": "ca-app-pub-2120403233975259/3903701971",
+
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": "",
+
+		"maxBanner": "f7a5525108c00ac0A",
+		"maxInterstitial": "5fa0efbeea673f05A",
+		"maxNative": "bf83265395b54ba8A",
+		
+		"ironsource_appKey": "",
+		
+		"unity_game_id": "5093206",
+		"unity_test": true,
+		"unity_banner": "Banner_Android",
+		"unity_interstitial": "Interstitial_Android",
+
+        "ImageBanner": false,
+        "ImageBannerImg" : "",
+        "ImageBannerURL" : ""
+		
+      },
+
+    "items": [
+      {
+        "title": "Overwatch 2: Sigma Guide (Tips, Abilities, And More)",
+        "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/10/Overwatch-2-Sigma-Overview.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Sigma was a late entry in the series but he was a strong one. The concept of tanking from a distance is an understandably tough one to flesh out; if he's not on the front, is he truly a tank? Why would enemies focus on him over his squishy teammates? Overwatch 2 experts can answer that question.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Overwatch 2: Sigma Guide (Tips, Abilities, And More)",
+        "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/10/Overwatch-2-Sigma-Overview.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Sigma was a late entry in the series but he was a strong one. The concept of tanking from a distance is an understandably tough one to flesh out; if he's not on the front, is he truly a tank? Why would enemies focus on him over his squishy teammates? Overwatch 2 experts can answer that question.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Overwatch 2: Sigma Guide (Tips, Abilities, And More)",
+        "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/10/Overwatch-2-Sigma-Overview.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Sigma was a late entry in the series but he was a strong one. The concept of tanking from a distance is an understandably tough one to flesh out; if he's not on the front, is he truly a tank? Why would enemies focus on him over his squishy teammates? Overwatch 2 experts can answer that question.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Overwatch 2: Sigma Guide (Tips, Abilities, And More)",
+        "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/10/Overwatch-2-Sigma-Overview.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Sigma was a late entry in the series but he was a strong one. The concept of tanking from a distance is an understandably tough one to flesh out; if he's not on the front, is he truly a tank? Why would enemies focus on him over his squishy teammates? Overwatch 2 experts can answer that question.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+     {
+        "title": "Overwatch 2: Sigma Guide (Tips, Abilities, And More)",
+        "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/10/Overwatch-2-Sigma-Overview.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Sigma was a late entry in the series but he was a strong one. The concept of tanking from a distance is an understandably tough one to flesh out; if he's not on the front, is he truly a tank? Why would enemies focus on him over his squishy teammates? Overwatch 2 experts can answer that question.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Overwatch 2: Sigma Guide (Tips, Abilities, And More)",
+        "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/10/Overwatch-2-Sigma-Overview.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Sigma was a late entry in the series but he was a strong one. The concept of tanking from a distance is an understandably tough one to flesh out; if he's not on the front, is he truly a tank? Why would enemies focus on him over his squishy teammates? Overwatch 2 experts can answer that question.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Overwatch 2: Sigma Guide (Tips, Abilities, And More)",
+        "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/10/Overwatch-2-Sigma-Overview.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Sigma was a late entry in the series but he was a strong one. The concept of tanking from a distance is an understandably tough one to flesh out; if he's not on the front, is he truly a tank? Why would enemies focus on him over his squishy teammates? Overwatch 2 experts can answer that question.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      }
+    ]
+
+  }
+}
